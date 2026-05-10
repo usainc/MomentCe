@@ -8,6 +8,7 @@ Public support and policy pages for MomentCe, an iOS app for birthdays, annivers
 - Privacy Policy: https://usainc.github.io/MomentCe/privacy-policy.html
 - Turkish Privacy Policy: https://usainc.github.io/MomentCe/privacy-policy-tr.html
 - Terms of Use: https://usainc.github.io/MomentCe/terms-of-use.html
+- Turkish Terms of Use: https://usainc.github.io/MomentCe/terms-of-use-tr.html
 - Support: https://usainc.github.io/MomentCe/support.html
 
 ## Product Summary
